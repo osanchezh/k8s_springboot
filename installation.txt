@@ -1,0 +1,4 @@
+https://www.youtube.com/watch?v=EY3uDfBG0OY
+
+https://github.com/shabbirdwd53/spring-boot-microservices/tree/kubernetes
+
